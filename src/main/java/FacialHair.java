@@ -14,4 +14,6 @@ public class FacialHair {
         this.haveMustache = haveMustache;
         this.color = color;
     }
+
+
 }
